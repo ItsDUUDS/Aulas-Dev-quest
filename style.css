@@ -1,11 +1,22 @@
+html{
+    background-color: aquamarine;
+}
+
+
 .libertadores{
     background-image: url(./source/images/Libertadores.png);
     height: 790px;
     width: 1182px;
+    
 }
 
 .libertadores li{
     color: white;
     padding: 10px;
     margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
 }
